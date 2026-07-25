@@ -2,6 +2,8 @@
 
 A thread-safe concurrent binary search tree (BST) implemented in modern C++20. This project demonstrates fine-grained synchronization techniques using per-node locking to enable concurrent access while maintaining binary search tree properties
 
+<img width="667" height="371" alt="Insertion Time Concurrent vs Sequential" src="https://github.com/user-attachments/assets/6b25db6e-0996-4909-a1d8-c5d966e7cf90" />
+
 ## Features
 
 - Thread-safe insertions
