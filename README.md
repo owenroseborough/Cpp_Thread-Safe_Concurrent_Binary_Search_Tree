@@ -4,6 +4,8 @@ A thread-safe concurrent binary search tree (BST) implemented in modern C++20. T
 
 <img width="667" height="371" alt="Insertion Time Concurrent vs Sequential" src="https://github.com/user-attachments/assets/6b25db6e-0996-4909-a1d8-c5d966e7cf90" />
 
+<img width="600" height="371" alt="Deletion Time Concurrent vs Sequential" src="https://github.com/user-attachments/assets/297950b0-9911-470f-8448-a0723804fd18" />
+
 ## Features
 
 - Thread-safe insertions
